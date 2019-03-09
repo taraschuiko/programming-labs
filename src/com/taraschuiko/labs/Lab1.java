@@ -7,22 +7,22 @@ public class Lab1 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("a: ");
-        double a = Double.parseDouble(scanner.nextLine());
+        double a = scanner.nextDouble();
 
         System.out.print("b: ");
-        double b = Double.parseDouble(scanner.nextLine());
+        double b = scanner.nextDouble();
 
         System.out.print("c: ");
-        double c = Double.parseDouble(scanner.nextLine());
+        double c = scanner.nextDouble();
 
         System.out.print("X start: ");
-        double xStart = Double.parseDouble(scanner.nextLine());
+        double xStart = scanner.nextDouble();
 
         System.out.print("X end: ");
-        double xEnd = Double.parseDouble(scanner.nextLine());
+        double xEnd = scanner.nextDouble();
 
         System.out.print("dX: ");
-        double dx = Double.parseDouble(scanner.nextLine());
+        double dx = scanner.nextDouble();
 
         for (double x = xStart; x <= xEnd; x += dx) {
             double y;
