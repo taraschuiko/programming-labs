@@ -25,15 +25,24 @@ public class Lab1 {
         double dx = scanner.nextDouble();
 
         for (double x = xStart; x <= xEnd; x += dx) {
-            double y;
-            if (x < 0 && b != 0) {
-                y = -a * Math.pow(x, 2) + b;
-            } else if (x > 0 && b == 0) {
-                y = x / (x - c) + 5.5;
+            if (!((int) a != 0 || (int) b != 0 || (int) c != 0)) {
+                f(a, b, c, x);
             } else {
-                y = x / -c;
+                f(a, b, c, x);
             }
-            System.out.println("a = " + a + "; b = " + b + "; c = " + c + "; x = " + x + "; F = " + y);
         }
+    }
+
+    private static double f(double a, double b, double c, double x) {
+        double y;
+        if (x < 0 && b != 0) {
+            y = -a * Math.pow(x, 2) + b;
+        } else if (x > 0 && b == 0) {
+            y = x / (x - c) + 5.5;
+        } else {
+            y = x / -c;
+        }
+        System.out.println("a = " + a + "; b = " + b + "; c = " + c + "; x = " + x + "; F = " + y);
+        return y;
     }
 }
