@@ -19,7 +19,8 @@ public class Lab1 {
         double dx = scanner.nextDouble();
 
         for (double x = xStart; x <= xEnd; x += dx) {
-            if (!((int) a != 0 || (int) b != 0 || (int) c != 0)) {
+            int binary = ~((int) a | (int) b | (int) c);
+            if (binary != 0) {
                 f(a, b, c, x);
             } else {
                 f((int) a, (int) b, (int) c, (int) x);
