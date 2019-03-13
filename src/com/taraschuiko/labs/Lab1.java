@@ -1,5 +1,6 @@
 package com.taraschuiko.labs;
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Lab1 {
@@ -37,7 +38,8 @@ public class Lab1 {
         } else {
             y = x / -c;
         }
-        System.out.println("a = " + a + "; b = " + b + "; c = " + c + "; x = " + x + "; F = " + y);
+        DecimalFormat df = new DecimalFormat("#.##");
+        System.out.println("a = " + a + "; b = " + b + "; c = " + c + "; x = " + x + "; F = " + df.format(y));
         return y;
     }
 }
