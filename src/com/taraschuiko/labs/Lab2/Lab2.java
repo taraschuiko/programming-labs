@@ -1,4 +1,4 @@
-package com.taraschuiko.labs;
+package com.taraschuiko.labs.Lab2;
 
 import java.util.Arrays;
 import java.util.Comparator;

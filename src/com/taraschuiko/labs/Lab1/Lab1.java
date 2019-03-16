@@ -1,4 +1,4 @@
-package com.taraschuiko.labs;
+package com.taraschuiko.labs.Lab1;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
