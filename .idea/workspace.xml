@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99a2b5d2-e4bf-43f8-a7bb-3f1b84d10d7b" name="Default Changelist" comment="Made lab 2">
-      <change afterPath="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab3/Lab3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab3/Лабораторна.pages" afterDir="false" />
+    <list default="true" id="99a2b5d2-e4bf-43f8-a7bb-3f1b84d10d7b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/labs/META-INF/labs.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/labs/com/taraschuiko/labs/Lab2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/labs/com/taraschuiko/labs/Lab2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab3/Лабораторна.pages" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab3/Лабораторна.pages" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab3/Lab3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="51" column="38" selection-end-line="66" />
+            <state relative-caret-position="460">
+              <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,7 +129,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553951110692" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553951234885" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -224,7 +220,7 @@
       <updated>1552112645531</updated>
       <workItem from="1553670418102" duration="839000" />
       <workItem from="1553680566543" duration="144000" />
-      <workItem from="1553946265551" duration="3990000" />
+      <workItem from="1553946265551" duration="4366000" />
     </task>
     <task id="LOCAL-00001" summary="Made lab 1">
       <created>1552115305478</created>
@@ -275,11 +271,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552751029273</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Made lab 3">
+      <created>1553951127420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553951127421</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4973000" />
+    <option name="totallyTimeSpent" value="5349000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,7 +305,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,7 +378,8 @@
     <MESSAGE value="Made binary operations if condition" />
     <MESSAGE value="Formatted output of function" />
     <MESSAGE value="Made lab 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made lab 2" />
+    <MESSAGE value="Made lab 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made lab 3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/lab1.pages" />
@@ -425,8 +429,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab3/Lab3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="51" column="38" selection-end-line="66" />
+        <state relative-caret-position="460">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
