@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99a2b5d2-e4bf-43f8-a7bb-3f1b84d10d7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab7Lyubomyr/Lab7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/BinaryTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/Lab8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/Node.java" afterDir="false" />
@@ -20,20 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/Lab8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="method#addItem#0;class#Lab8#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8/Lab8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="630">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -41,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="323">
+              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
                 <element signature="e#669#670#0" expanded="true" />
                 <element signature="e#696#697#0" expanded="true" />
@@ -56,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -104,8 +91,8 @@
         <option value="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab7Lyubomyr/Lab7.java" />
         <option value="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/Node.java" />
         <option value="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8/Lab8.java" />
-        <option value="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/Lab8.java" />
         <option value="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/Lab8.java" />
       </list>
     </option>
   </component>
@@ -125,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,6 +135,21 @@
               <item name="labs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab7Lyubomyr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab7Lyubomyr" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab7.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
               <item name="Lab8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,12 +164,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559659695082" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559659958534" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -294,7 +296,8 @@
       <workItem from="1556444467256" duration="39000" />
       <workItem from="1558616129969" duration="9911000" />
       <workItem from="1558628134640" duration="4168000" />
-      <workItem from="1559648456904" duration="8042000" />
+      <workItem from="1559648456904" duration="8412000" />
+      <workItem from="1559990126444" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="Made lab 1">
       <created>1552115305478</created>
@@ -380,11 +383,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558632781367</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Made lab 7 for Lyubomyr XD">
+      <created>1559659946616</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1559659946616</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33301000" />
+    <option name="totallyTimeSpent" value="34065000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,7 +409,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21244635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21530758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -517,7 +527,8 @@
     <MESSAGE value="Made lab 5 with report" />
     <MESSAGE value="Made lab 8 with report" />
     <MESSAGE value="Made lab 9 with report" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made lab 9 with report" />
+    <MESSAGE value="Made lab 7 for Lyubomyr XD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made lab 7 for Lyubomyr XD" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/lab1.pages" />
@@ -636,20 +647,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8/Lab7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab7Lyubomyr/Lab7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1675">
-          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8/Lab7.java" />
     <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8/Respondent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -669,27 +667,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab7Lyubomyr/Lab7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8/Lab8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/Lab8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="method#addItem#0;class#Lab8#0" />
-          </folding>
+        <state relative-caret-position="630">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="323">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="e#669#670#0" expanded="true" />
             <element signature="e#696#697#0" expanded="true" />
@@ -701,8 +703,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/taraschuiko/labs/Lab8Lyubomyr/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
